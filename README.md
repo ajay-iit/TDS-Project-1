@@ -4,7 +4,7 @@
 ## 1. Data Collection
 Two files are scraped from the GitHub API using pandas code:
 1. users.csv (contains data about GitHub users in Austin with over 100 followers and their repositories) 
-2. repositories.csv(Contains information about 41123 public repositories from these users).
+2. repositories.csv(Contains information about public repositories from these users).
 
 ## 2. Surprising Facts 
 Repository creation and bio length both positively impact followers.People with longer bio are more expressive than the rest and they attract more followers. Also, a significant number of followers don't use wiki for their projects.
